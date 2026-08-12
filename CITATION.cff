@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite the repository and the original dataset paper."
+title: "Appliance Energy Forecasting"
+version: 1.0.0
+date-released: 2026-07-21
+license: MIT
+preferred-citation:
+  type: software
+  title: "Appliance Energy Forecasting"
+  version: 1.0.0
+  year: 2026
+references:
+  - type: article
+    authors:
+      - family-names: Candanedo
+        given-names: Luis M.
+      - family-names: Feldheim
+        given-names: Véronique
+      - family-names: Deramaix
+        given-names: Dominique
+    title: "Data driven prediction models of energy use of appliances in a low-energy house"
+    journal: "Energy and Buildings"
+    volume: 140
+    year: 2017
+    doi: 10.1016/j.enbuild.2017.01.083
+

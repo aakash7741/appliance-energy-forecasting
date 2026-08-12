@@ -1,0 +1,6 @@
+{
+  "status": "succeeded",
+  "model": "amazon/chronos-t5-tiny",
+  "samples": 40,
+  "context_length": 512
+}

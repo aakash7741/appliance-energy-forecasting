@@ -1,0 +1,17 @@
+{
+  "raw_rows": 19735,
+  "raw_columns": 28,
+  "raw_start": "2016-01-11T17:00:00",
+  "raw_end": "2016-05-27T18:00:00",
+  "raw_missing_cells": 0,
+  "missing_timestamps_10min": 0,
+  "duplicate_timestamps": 0,
+  "hourly_rows": 3290,
+  "hourly_missing_cells": 0,
+  "missing_timestamps_hourly": 0,
+  "raw_sha256": "2820bf712ad0275cb18b85a05250926100d8e65ebb9f4d2d016ca91ea152a25d",
+  "hourly_target_mean_Wh": 586.0212765957447,
+  "hourly_target_std_Wh": 486.0482237405565,
+  "hourly_target_min_Wh": 170.0,
+  "hourly_target_max_Wh": 3650.0
+}

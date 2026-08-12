@@ -1,0 +1,20 @@
+{
+  "aic_winner": {
+    "order": [
+      0,
+      1,
+      6
+    ],
+    "aic": 20972.93910440608,
+    "final_order": [
+      0,
+      1,
+      6
+    ],
+    "screening_hours": 1440
+  },
+  "best_model": "HGB lag+time",
+  "best_rmse": 373.40716504092467,
+  "strongest_benchmark": "Weekly seasonal naive",
+  "runtime_seconds": 5223.716854095459
+}
